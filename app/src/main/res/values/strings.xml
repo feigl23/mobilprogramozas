@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Felezo</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Felező</string>
+    <string name="second_fragment_label">Gondoltál egy számra</string>
+    <string name="start">Kezdés</string>
+    <string name="exit">Kilépés</string>
+    <string name="smaller">Kisebb</string>
+    <string name="equal">Eltaláltad!</string>
+    <string name="bigger">Nagyobb</string>
+
+    <string name="rules">
+        A játék egyszerű: te gondolsz egy számra 1 és 100 között, én kitalálom.
+        Fel fogok tenni pár kérdést, te pedig válaszolj.
+    </string>
+</resources>
