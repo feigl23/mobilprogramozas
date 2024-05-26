@@ -1,4 +1,4 @@
-# Okostelefon és IoT eszközök programozása bedandó
+# Okostelefon és IoT eszközök programozása beadandó
 
 ## Feladatleírás
 
